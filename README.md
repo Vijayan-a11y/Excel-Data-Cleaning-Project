@@ -20,8 +20,8 @@ To clean raw sales data and create a dashboard for better insights.
 - Data Cleaning Functions
 
 ## 📸 Project Screenshots
-<img width="975" height="522" alt="image" src="https://github.com/user-attachments/assets/62e41113-4c25-49de-9899-b454054423fa" />
-<img width="975" height="524" alt="image" src="https://github.com/user-attachments/assets/13549039-42d0-43bc-92a3-b32050d20ce3" />
+<img width="975" height="821" alt="image" src="https://github.com/user-attachments/assets/cbd7177c-68e4-404d-a3ee-6f48fe5c3c3e" />
+<img width="975" height="271" alt="image" src="https://github.com/user-attachments/assets/8fe4aa73-03b0-451c-97dd-3b2063135fbf" />
 
 ## 🚀 Project Outcome
 - Clean and structured dataset
